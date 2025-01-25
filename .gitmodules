@@ -1,0 +1,6 @@
+[submodule "Projects/general"]
+	path = Projects/general
+	url = https://github.com/IcebergASV/general.git
+[submodule "Projects/visualization"]
+	path = Projects/visualization
+	url = https://github.com/IcebergASV/visualization.git
